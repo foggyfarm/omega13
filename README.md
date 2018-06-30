@@ -1,4 +1,4 @@
-## Welcome the omega13 proyect
+## Welcome the omega13 project
 
 open source DIY vertical plane aero-fogponic control environment commercial grow system
 
